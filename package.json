@@ -1,0 +1,18 @@
+{
+  "name": "tokyo.tichise.scene-selector",
+  "displayName": "Scene Selector",
+  "version": "1.1.1",
+  "unity": "2020.3",
+  "description": "A scene library that automatically lists and selects scenes that exist in a Unity project",
+  "author": {
+      "name": "tichise",
+      "url": "https://github.com/tichise"
+  },
+  "keywords": [
+      "selector",
+      "menu",
+      "debug"
+  ],
+  "dependencies": {
+  }
+}
